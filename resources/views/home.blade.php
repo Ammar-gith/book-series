@@ -7,7 +7,7 @@
 @push('content')
     <div class="row m-5">
 
-        <!-- Sales -->
+        <!-- Setting Module -->
         <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-4">
             <a href="/setting">
                 <div class="card border-bottom border-primary">
@@ -29,8 +29,8 @@
                 </div>
             </a>
         </div>
-        <!--/ Sales -->
-        <!-- Sales -->
+        <!--/ Setting Module -->
+        <!-- Book Module -->
         <div class="col-lg-3 col-md-6 col-sm-6 col-12 mb-4">
             <a href="/book">
                 <div class="card border-bottom border-primary">
@@ -52,7 +52,7 @@
                 </div>
             </a>
         </div>
-        <!--/ Sales -->
+        <!--/ Book Module -->
 
 
     </div>
